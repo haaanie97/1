@@ -1,10 +1,5 @@
-{
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../border"
-		}
-	]
-}
+git re -r <foldername>
+
+gig commit -m "Deleted the folder from the repository"
+
+git push

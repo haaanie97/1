@@ -1,0 +1,137 @@
+.text1 {
+    text-align: center;
+
+}
+
+.text2 {
+    font-size: x-large;
+    color: #41042d;
+    background-color: #f742bb;
+}
+
+.text3 {
+    text-decoration: none;
+  
+}
+
+.text4 {
+    word-spacing: 20px;
+}
+
+.text5 {
+    line-height: 3;
+    font-style: italic;
+}
+
+.text6 {
+    line-height: 2;
+}
+
+.text7 {
+    width: 50px;
+    height: 50px;
+    color: rgb(5, 68, 39);
+    border-color: rgb(8, 153, 39);
+}
+
+.text8 {
+    color: #5e2f05;
+    font-weight: bolder;
+
+}
+
+.text9 {
+    color: brown;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.text10 {
+    color: #f91339;
+    padding: 100px;
+    background-color: #ecae90;
+
+
+}
+
+* {
+
+    font-family: "B Nazanin";
+    background-color: #f2efcd;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.box-model {
+    border: 1px solid orange;
+    border-radius: 20px;
+    width: 150px;
+    height: 170px;
+    /* display: inline-block; */
+    margin-bottom: 10px;
+
+
+}
+
+.img1 {
+    border-radius: 18px;
+    width: 100%;
+    height: 100px;
+
+
+}
+
+/* .img{
+    border: 1px solid orangered;
+    border-radius: 20px;
+}
+.img1{
+    border: 1px solid orangered;
+    border-radius: 20px;
+    padding-top: 5px; ;
+}
+span{
+    display: block;
+
+ }
+ .middle{
+    display: inline-block;
+ }
+ span{
+    display: inline-block;
+ } */
+
+.flex-flow {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 30px;
+    justify-content: space-evenly;
+
+
+}
+
+.flex-flow-1 {
+    display: flex;
+    height: 10px;
+    /* width: 1500px; */
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.flex-flow-2 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+
+
+}
+/* .footer{
+    background-color: transparent;
+} */
